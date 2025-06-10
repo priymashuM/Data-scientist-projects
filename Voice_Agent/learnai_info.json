@@ -1,0 +1,142 @@
+{
+    "institute_info": {
+        "name": "LearnAI",
+        "address": "Dilsukhnagar, Hyderabad",
+        "phone": "+91 9876543210",
+        "email": "info@learnai.com",
+        "website": "www.learnai.com"
+    },
+    "timing_info": {
+        "working_hours": {
+            "Monday": "9:00 AM \u2013 9:00 PM",
+            "Tuesday": "9:00 AM \u2013 9:00 PM",
+            "Wednesday": "9:00 AM \u2013 9:00 PM",
+            "Thursday": "9:00 AM \u2013 9:00 PM",
+            "Friday": "9:00 AM \u2013 9:00 PM",
+            "Saturday": "9:00 AM \u2013 5:00 PM",
+            "Sunday": "By Appointment"
+        }
+    },
+    "courses_info": [
+        {
+            "category": "Basic & Programming",
+            "courses": [
+                "Basic Computer",
+                "MS Office",
+                "C Programming",
+                "C++",
+                "Java",
+                "Python"
+            ]
+        },
+        {
+            "category": "Advanced Programming",
+            "courses": [
+                "Web Development",
+                "UI Development",
+                "Python Full Stack",
+                "Java Full Stack",
+                "MERN Stack",
+                "React JS"
+            ]
+        },
+        {
+            "category": "Data",
+            "courses": [
+                "Business Analytics",
+                "Data Analytics",
+                "Natural Language Processing",
+                "Computer Vision",
+                "Time Series Analysis",
+                "Digital Signal Processing"
+            ]
+        },
+        {
+            "category": "Artificial Intelligence",
+            "courses": [
+                "Machine Learning",
+                "Deep Learning",
+                "Data Science",
+                "Artificial Intelligence",
+                "Generative AI",
+                "AI Tools"
+            ]
+        },
+        {
+            "category": "English",
+            "courses": [
+                "Basic English",
+                "Spoken English",
+                "Corporate English",
+                "IELTS Academic",
+                "IELTS General",
+                "Duolingo English"
+            ]
+        },
+        {
+            "category": "Marketing",
+            "courses": [
+                "Digital Marketing",
+                "Digital Marketing with AI Tools",
+                "Content Writing",
+                "SEO",
+                "SMM",
+                "Affiliate Marketing"
+            ]
+        },
+        {
+            "category": "Cloud",
+            "courses": [
+                "AWS",
+                "Azure",
+                "DevOps",
+                "MLOps",
+                "Data Engineering",
+                "Cyber Security"
+            ]
+        },
+        {
+            "category": "Tools & Database",
+            "courses": [
+                "Power BI",
+                "MySQL",
+                "SQL",
+                "ServiceNow",
+                "Salesforce",
+                "Tableau"
+            ]
+        }
+    ],
+    "fees_info": [
+        {
+            "course": "Data Analysis",
+            "duration": "2 months",
+            "fee": 10000
+        },
+        {
+            "course": "Machine Learning",
+            "duration": "3 months",
+            "fee": 19000
+        },
+        {
+            "course": "Data Science",
+            "duration": "4 months",
+            "fee": 15000
+        },
+        {
+            "course": "Advanced Data Science",
+            "duration": "4 months",
+            "fee": 20000
+        },
+        {
+            "course": "Artificial Intelligence",
+            "duration": "4 months",
+            "fee": 22000
+        },
+        {
+            "course": "Digital Marketing",
+            "duration": "2 months",
+            "fee": 12000
+        }
+    ]
+}

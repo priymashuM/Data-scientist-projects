@@ -1,0 +1,3 @@
+Requirement already satisfied: tokenizers in c:\users\dell\anaconda3\envs\officeprojects\lib\site-packages (0.12.1)
+Requirement already satisfied: numpy in c:\users\dell\anaconda3\envs\officeprojects\lib\site-packages (1.23.5)
+Requirement already satisfied: protobuf in c:\users\dell\anaconda3\envs\officeprojects\lib\site-packages (4.25.3)
